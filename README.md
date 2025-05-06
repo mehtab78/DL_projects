@@ -1,4 +1,4 @@
-# Homework 4
+# ANN Project
 
 In this homework, we will learn to drive with Transformers and convolutional networks!
 
